@@ -55,13 +55,19 @@ body {
   
 
   .btn-success {
-    background-color: #6d6c6c;
-    border-color: #6d6c6c;
+    background-color: #d3d1d1;
+    border-color: #d3d1d1;
     font-weight: 600;
     color: rgb(20, 201, 20);
   }
+
+  .btn-warning {
+    background-color: #d3d1d1;
+    border-color: #d3d1d1;
+    font-weight: 600;
+    color: rgb(197, 147, 8);
+  }
   
-  /* Custom styles for links */
   a {
     
     text-decoration: none;
