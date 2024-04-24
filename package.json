@@ -1,5 +1,5 @@
 {
-  "name": "Pern-Todo",
+  "name": "pern-todo",
   "version": "1.0.0",
   "description": "Todo list",
   "main": "index.js",
